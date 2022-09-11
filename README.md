@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/status-completo-green"><br>
 
 # Descrição do projeto <br>
-Uma landing page e compartilhando conhecimentos em jQuery. Na página usei o método `ready()` que isponibiliza uma função depois que o documento for carregado totalmente, fazendo com que a função `slideToggle()` deslize o menu mobile.<br><br>
+Uma landing page e compartilhando conhecimentos em jQuery. Na página usei o método `ready()` que disponibiliza uma função depois que o documento for carregado totalmente, fazendo com que a função `slideToggle()` deslize o menu mobile.<br><br>
 
 # Função <br>
 ![mobile (2)](https://user-images.githubusercontent.com/109925535/189507685-d21cfc7c-eabe-4028-a865-42f4edaa193f.gif)
